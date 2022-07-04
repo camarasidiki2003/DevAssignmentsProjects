@@ -31,7 +31,7 @@ public class Class2 {
 		  System.out.println(" "+a+b+g);  
 // practice
 		  
-		  System.out.println(" Hello Techfios");
+ 		  System.out.println(" Hello Techfios");
 			System.out.println("     Hello Techfios");
 			System.out.println("");
 			System.out.println("        Hello Techfios   ");
@@ -49,7 +49,7 @@ public class Class2 {
 			
 		  
 		  // scanner usage
-		  
+		    
 		  System.out.println("What is your name?");
 		  Scanner userName= new Scanner(System.in);
 		  String value=userName.nextLine();
